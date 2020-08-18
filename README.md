@@ -4,7 +4,7 @@ Multiplication table creator (custom numbers).
 
 Thanks to this program, you can build your multiplication table from any rational numbers. First you will need to specify the number of numbers, then enter the numbers one by one, and in the last step you will be able to sort your numbers (ascending, descending, not sorting). After that, the table will be displayed on the screen. There is an example below.
 
-![alt text](https://cdn1.savepice.ru/uploads/2020/5/17/ea57612e5208f3ca97a798e4746bbf4d-full.jpg)
+![alt text](https://github.com/t0efL/Multplication-Table-ENG/blob/master/example.png)
 
 The program code is implemented in Python 3. Also, before launching, make sure that you have the pandas and matplotlib libraries installed.
 
